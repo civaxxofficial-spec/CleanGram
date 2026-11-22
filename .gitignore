@@ -1,0 +1,28 @@
+﻿# IDE
+.idea/
+.vscode/
+*.iml
+
+# Android / Gradle
+.gradle/
+**/build/
+local.properties
+
+# .NET
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# Secrets
+.env
+.env.*
+!.env.example
+secrets/
+*.keystore
+*.jks
+
+# OS
+Thumbs.db
+.DS_Store
